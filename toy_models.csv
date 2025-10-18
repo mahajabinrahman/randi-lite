@@ -1,0 +1,4 @@
+﻿model_name,parameters,bias_score,energy_kwh
+DistilBERT,66M,0.35,0.2
+GPT2,124M,0.42,0.08
+T5-small,60M,0.33,0.03
